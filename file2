@@ -1,10 +1,78 @@
-[30303.943549] usb 1-1: USB disconnect, device number 4
-[30304.171445] e1000: eth0 NIC Link is Down
-[30304.579280] usb 1-1: new full-speed USB device number 5 using ohci-pci
-[30304.833508] usb 1-1: New USB device found, idVendor=80ee, idProduct=0021
-[30304.833518] usb 1-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
-[30304.833523] usb 1-1: Product: USB Tablet
-[30304.833528] usb 1-1: Manufacturer: VirtualBox
-[30304.848690] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0004/input/input10
-[30304.960862] hid-generic 0003:80EE:0021.0004: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
-[30310.171691] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Netid  State      Recv-Q Send-Q   Local Address:Port       Peer Address:Port   
+u_str  ESTAB      0      0                    * 37860                 * 37861  
+u_str  ESTAB      0      0                    * 37873                 * 37872  
+u_str  ESTAB      0      0                    * 37796                 * 37797  
+u_str  ESTAB      0      0      @/com/ubuntu/upstart 8647                  * 8645   
+u_str  ESTAB      0      0                    * 8751                  * 8755   
+u_str  ESTAB      0      0      /var/run/dbus/system_bus_socket 41115                 * 41114  
+u_str  ESTAB      0      0                    * 37854                 * 37855  
+u_str  ESTAB      0      0      /var/run/dbus/system_bus_socket 8711                  * 8710   
+u_str  ESTAB      0      0                    * 37803                 * 37804  
+u_str  ESTAB      0      0                    * 37815                 * 37816  
+u_str  ESTAB      0      0                    * 37864                 * 37863  
+u_str  ESTAB      0      0                    * 37786                 * 37787  
+u_str  ESTAB      0      0                    * 37843                 * 37842  
+u_str  ESTAB      0      0                    * 37834                 * 37833  
+u_str  ESTAB      0      0                    * 37825                 * 37824  
+u_str  ESTAB      0      0      @/com/ubuntu/upstart 8411                  * 8392   
+u_str  ESTAB      0      0                    * 37807                 * 37806  
+u_str  ESTAB      0      0                    * 37821                 * 37822  
+u_str  ESTAB      0      0                    * 37797                 * 37796  
+u_str  ESTAB      0      0                    * 8645                  * 8647   
+u_str  ESTAB      0      0      @/com/ubuntu/upstart 8755                  * 8751   
+u_str  ESTAB      0      0                    * 37849                 * 37848  
+u_str  ESTAB      0      0                    * 37793                 * 37794  
+u_str  ESTAB      0      0                    * 8678                  * 8679   
+u_str  ESTAB      0      0                    * 37863                 * 37864  
+u_str  ESTAB      0      0                    * 37804                 * 37803  
+u_str  ESTAB      0      0                    * 8824                  * 8825   
+u_str  ESTAB      0      0                    * 37830                 * 37831  
+u_str  ESTAB      0      0                    * 37840                 * 37839  
+u_str  ESTAB      0      0                    * 8710                  * 8711   
+u_str  ESTAB      0      0                    * 37867                 * 37866  
+u_str  ESTAB      0      0                    * 8392                  * 8411   
+u_str  ESTAB      0      0                    * 37833                 * 37834  
+u_str  ESTAB      0      0                    * 37818                 * 37819  
+u_str  ESTAB      0      0                    * 37800                 * 37801  
+u_str  ESTAB      0      0      /var/run/dbus/system_bus_socket 8825                  * 8824   
+u_str  ESTAB      0      0                    * 37790                 * 37789  
+u_str  ESTAB      0      0                    * 37837                 * 37836  
+u_str  ESTAB      0      0                    * 37812                 * 37813  
+u_str  ESTAB      0      0                    * 37822                 * 37821  
+u_str  ESTAB      0      0                    * 37852                 * 37851  
+u_str  ESTAB      0      0                    * 37858                 * 37857  
+u_str  ESTAB      0      0                    * 37875                 * 37876  
+u_str  ESTAB      0      0                    * 37848                 * 37849  
+u_str  ESTAB      0      0                    * 37794                 * 37793  
+u_str  ESTAB      0      0                    * 41106                 * 41107  
+u_str  ESTAB      0      0                    * 37813                 * 37812  
+u_str  ESTAB      0      0                    * 37819                 * 37818  
+u_str  ESTAB      0      0                    * 37836                 * 37837  
+u_str  ESTAB      0      0                    * 37831                 * 37830  
+u_str  ESTAB      0      0                    * 37866                 * 37867  
+u_str  ESTAB      0      0                    * 37801                 * 37800  
+u_str  ESTAB      0      0                    * 37809                 * 37810  
+u_str  ESTAB      0      0                    * 37845                 * 37846  
+u_str  ESTAB      0      0                    * 37827                 * 37828  
+u_str  ESTAB      0      0                    * 37870                 * 37869  
+u_str  ESTAB      0      0                    * 37789                 * 37790  
+u_str  ESTAB      0      0                    * 41107                 * 41106  
+u_str  ESTAB      0      0                    * 37851                 * 37852  
+u_str  ESTAB      0      0                    * 8679                  * 8678   
+u_str  ESTAB      0      0                    * 37872                 * 37873  
+u_str  ESTAB      0      0                    * 37876                 * 37875  
+u_str  ESTAB      0      0                    * 37857                 * 37858  
+u_str  ESTAB      0      0                    * 41114                 * 41115  
+u_str  ESTAB      0      0                    * 37855                 * 37854  
+u_str  ESTAB      0      0                    * 37861                 * 37860  
+u_str  ESTAB      0      0                    * 37842                 * 37843  
+u_str  ESTAB      0      0                    * 37816                 * 37815  
+u_str  ESTAB      0      0                    * 37839                 * 37840  
+u_str  ESTAB      0      0                    * 37824                 * 37825  
+u_str  ESTAB      0      0                    * 37846                 * 37845  
+u_str  ESTAB      0      0                    * 37810                 * 37809  
+u_str  ESTAB      0      0                    * 37806                 * 37807  
+u_str  ESTAB      0      0                    * 37828                 * 37827  
+u_str  ESTAB      0      0                    * 37869                 * 37870  
+u_str  ESTAB      0      0                    * 37787                 * 37786  
+tcp    ESTAB      0      64        10.124.18.45:ssh        10.124.18.43:49170   
