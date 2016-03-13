@@ -182,3 +182,86 @@
   182  ECHO $HOSTNAME
   183  echo $HOSTNAME
   184  history > history.$HOSTNAME
+  185  ls -lh
+  186  ls
+  187  mv history.s1 history
+  188  ls
+  189  cd history
+  190  cls
+  191  ls
+  192  cd..
+  193  cd ..
+  194  tree
+  195  git status
+  196  fit add history
+  197  git add history
+  198  git status
+  199  dir
+  200  mkdir dir1
+  201  git status
+  202  tree
+  203  git commit --amend --reset-author
+  204  git commit -m "Inicialización de repositorio"
+  205  git config --global user.email "lrvaverded@gmail.com"
+  206  git commit -m "Inicialización de repositorio"
+  207  ls
+  208  git commit -m "Inicialización de repositorio"
+  209  cd history
+  210  git add history.s1
+  211  cd..
+  212  git commit -m "Inicialización de repositorio"
+  213  cd..
+  214  git add history.s1
+  215  cd..
+  216  cd ..
+  217* git commit -m "Inicialización de repositorio"[A
+  218  tree
+  219* git status [A
+  220  cd history
+  221  git status
+  222  git add history.s1
+  223  git status
+  224  ls
+  225  git commit -m "Inicialización de repositorio"
+  226  cd
+  227  cd LX1_LRVD/
+  228  git status
+  229  git log
+  230  dmesg | tail > file2
+  231  git status
+  232* netstat -atunpl > dir1/estatus_red 
+  233  tree
+  234  git status
+  235  git add file2
+  236  get estatus
+  237  get status
+  238  get log
+  239  git log
+  240  git status
+  241* git add dir1/estatus_red [B
+  242  git status
+  243  git commit -m "Cabeza del kernel + estatus de conexiones de red"
+  244  git status
+  245  git log
+  246  tree
+  247  git log
+  248  git status
+  249  cat > file 3
+  250  cat " " > file3
+  251  ls
+  252  tree
+  253  git status
+  254  rm file
+  255  git status
+  256  cat ss > file2
+  257  ss > file2
+  258  git status
+  259  git commit -m "Archivo modificado"
+  260  git add file2
+  261  git commit -m "Archivo modificado"[B
+  262  git log
+  263  git status
+  264  git remote add origin https://github.com/lrvd/LXS_luis.valverde.git
+  265  git push -u origin master
+  266  cd history
+  267  history > history.s1
