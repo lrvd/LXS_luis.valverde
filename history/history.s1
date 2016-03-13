@@ -1,0 +1,184 @@
+    1  cd dev
+    2  de input$
+    3  ls
+    4  ls /dev
+    5  cd /dev
+    6  cls
+    7  cd imput$
+    8  cd..
+    9  cd
+   10  cd etc
+   11  cd /etc
+   12  ls
+   13  cd init.d
+   14  ls
+   15  cd /etc/rc2.d
+   16  ls
+   17  ls -l
+   18  sudo apt-get install apache2
+   19  sudo apt-get update
+   20  sudo apt-get upgrade
+   21  tree
+   22  sudo apt-get install tree
+   23  sudo apt-get install apache2
+   24  ps aux | grep apache
+   25  sudo service apache2
+   26  sudo service apache2 stop
+   27  ps aux | grep apache
+   28  sudo service apache2 star
+   29  sudo service apache2 start
+   30  ps aux | grep apache
+   31  sudo service apache2
+   32  sudo service apache2 force-reload
+   33  ps aux | grep apache
+   34  cd /etc/apacha2
+   35  cd /etc/apache2
+   36  ls -la
+   37  vim sites-enabled
+   38  vim apache2.conf
+   39  cd etc
+   40  cd..
+   41  cd ..
+   42  ls -la
+   43  cd proc
+   44  exit
+   45  exit
+   46  sudo updatedb
+   47  locate vim
+   48  locate vim ° less
+   49  locate vim | less
+   50  sudo apt-get upgrade
+   51  history | grep user
+   52  cd /etc/
+   53  ls pass
+   54  ls shadow passwd group -l
+   55  vim passwd
+   56  id
+   57  vim passwd
+   58  add user usr1
+   59  sudo adduser usr1
+   60  exit
+   61  cd etc
+   62  id
+   63  cd /etc/
+   64  sudo vim shadow
+   65  sudo vim group
+   66  exit
+   67  cd etc
+   68  cd /etc
+   69  sudo vim group
+   70  cd ..
+   71  locate skel | grep etc
+   72  cd /etc/skel
+   73  sudo dmesg > sistema.log
+   74  sudo touch sistema.loco
+   75  sudo echo "Hola usuario nuevo" > sistema.loco
+   76  sudo vim sistema.loco
+   77  ls -la
+   78  sudo adduser user2
+   79  su usr1 -
+   80  su - usr2
+   81  su - user2
+   82  exit
+   83  ssh l5uk@10.124.18.137
+   84  ssh l2uk@10.124.18.137
+   85  ssh lrvd@10.124.18.137
+   86  exit
+   87  ls
+   88  ls -l
+   89  ps aux | grep apache
+   90  ls
+   91  cd 
+   92  ps aux
+   93  ps
+   94  ps aux
+   95  ps aux | grep apache
+   96  cd..
+   97  cls
+   98  cd
+   99  wget https://ftp.drupal.org/files/projects/drupal-7.43.tar.gz
+  100  ls
+  101  which unzip
+  102  ape-cache openssh | less
+  103  apt-cache openssh | less
+  104  sudo apt-get install mysql -server php5 apache2 php5-mysql 
+  105  sudo apt-get install mysql-server php5 apache2 php5-mysql 
+  106  ls
+  107  ls -lha
+  108  history > history.log19032016
+  109  vim history.log19032016
+  110  ip -4 addr
+  111  ps
+  112  sudo su -
+  113  exit
+  114  ps
+  115  ps aux
+  116  ks
+  117  ls
+  118  ps aux
+  119  ls
+  120  ip -4 addr
+  121  cd /var/www/
+  122  ls
+  123  cd html/
+  124  ls
+  125  cat index.html 
+  126  cd /var/www
+  127  ls
+  128  screen
+  129  sudo apt-get install mysql-server php5 apache2 php5-mysql 
+  130  netstat -tunp
+  131  netstat -tup
+  132  sudo apt-get install nmap
+  133  nmap
+  134  ip -4 addr
+  135  nmap 10.124.18.45[A
+  136  ss -atun
+  137  ss -atu
+  138  nmap 10.124.18.45
+  139  ss -tuna
+  140  nmap 10.124.18.45
+  141  sudo su-
+  142  sudo su -
+  143  cls
+  144  ls -la
+  145  sudo su -
+  146  exit
+  147  sudo apt-get install git
+  148  sudo apt-get update
+  149  sudo apt-get upgrade
+  150  sudo apt-get install git
+  151  mkdir LK1_LRVD
+  152  tree
+  153  cd LK1_LRVD
+  154  mkdir history
+  155  git add history
+  156  ls
+  157  tree
+  158  git init
+  159  git add history
+  160  tree
+  161  cd..
+  162  cd ..
+  163  rm -r LK1_LRVD
+  164  mkdir LX1_LRVD
+  165  cd LX1_LRVD
+  166  git init
+  167  mkdir history
+  168  git add history
+  169  tree
+  170  cd..
+  171  cd ..
+  172  tree
+  173  cd LX1_LRVD
+  174  git init
+  175  git config --global user.mail "lrvaverded@gmail.com"
+  176  cat ~/.gitconfig 
+  177  git config --global user.name "Luis Rodolfo Vavlerde Delgado"
+  178  cat ~/.gitconfig 
+  179  git config --global user.name "Luis Rodolfo Valverde Delgado"
+  180  cat ~/.gitconfig 
+  181  tree ./.gitconfig
+  182  ECHO $HOSTNAME
+  183  echo $HOSTNAME
+  184  history > history.$HOSTNAME
